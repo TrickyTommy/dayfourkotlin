@@ -1,6 +1,6 @@
 package dayfour.compiletimeconstant.latenint
 
-i
+
 lateinit var app: String //cara tidak baik
 var applicationName = ""
 fun main(){

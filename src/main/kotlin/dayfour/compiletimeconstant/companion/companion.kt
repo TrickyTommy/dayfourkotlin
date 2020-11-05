@@ -22,6 +22,13 @@ class  MainApp{
 }
 
 val MainApp.Companion.name: String get() ="Main application class"
+
+class Host(private val hostName: String){
+
+}
+
+
+
 fun main(){
 
     val list = mutableListOf("1","2","7")
